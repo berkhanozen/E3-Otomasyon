@@ -34,8 +34,11 @@ MySQL Companies Table
 # Built With
 
 HTML - Substructure
+
 CSS - Style/Design
+
 PHP - Backend
+
 MySQL - Database
 
 # Authors
