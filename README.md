@@ -15,7 +15,7 @@ Register
 
 <img src="screenshot/register.png" width="700" height="400">
 
-Table
+Main Page
 
 <img src="screenshot/table.png" width="700" height="400">
 
