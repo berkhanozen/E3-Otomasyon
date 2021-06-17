@@ -9,27 +9,27 @@ Download project from Github and move to XAMPP/htdocs inside. Write to url area 
 
 Login
 
-<img src="screenshot/login.png" width="750" height="500">
+<img src="screenshot/login.png" width="700" height="400">
 
 Register
 
-<img src="screenshot/register.png" width="750" height="500">
+<img src="screenshot/register.png" width="700" height="400">
 
 Table
 
-<img src="screenshot/table.png" width="750" height="500">
+<img src="screenshot/table.png" width="700" height="400">
 
 Adding Form
 
-<img src="screenshot/adding_form.png" width="750" height="500">
+<img src="screenshot/adding_form.png" width="700" height="400">
 
 MySQL Users Table
 
-<img src="screenshot/pma_users.png" width="750" height="500">
+<img src="screenshot/pma_users.png" width="700" height="400">
 
 MySQL Companies Table
 
-<img src="screenshot/pma_companies.png" width="750" height="500">
+<img src="screenshot/pma_companies.png" width="700" height="400">
 
 # Built With
 
